@@ -8,3 +8,4 @@ avaliacoes = pd.read_csv("https://github.com/alura-cursos/introducao-a-data-scie
 avaliacoes.head()
 #avaliacoes.shape
 #len(avaliacoes)
+#len(avaliacoes)
